@@ -1,0 +1,4 @@
+finance
+plotly
+pandas
+pandas_datareader
