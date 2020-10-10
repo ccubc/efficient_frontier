@@ -10,7 +10,7 @@ stocks: {
   'FB': 'Facebook',
   'AMZN': 'Amazon',
   'AAPL': 'Apple',
-  'NLFX': 'Netflix',
+  'NFLX': 'Netflix',
   'GOOGL': 'Google'
 }
 
