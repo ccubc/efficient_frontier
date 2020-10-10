@@ -1,0 +1,17 @@
+# calculate stock return/volatility from starting_year
+starting_year: 2009
+
+# stocks to be included in the portfolio, {ticker: company}
+stocks: {
+  'FB': 'Facebook',
+  'AMZN': 'Amazon',
+  'AAPL': 'Apple',
+  'NLFX': 'Netflix',
+  'GOOGL': 'Google'
+}
+
+# whether allow purchasing fractional shares in the model 
+fractional_shares: True
+
+# total investment amount, required when fractional_shares = False
+investment_amount:
