@@ -1,5 +1,6 @@
 # Efficient Frontier
 work in progress
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ccubc/efficient_frontier/HEAD?filepath=notebook%2Fefficient_frontier.ipynb)
 
 
 ### 0. after cloning the repo, make directories
