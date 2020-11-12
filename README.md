@@ -18,3 +18,5 @@ Note: data and results are not version controled
 
 ### 3. Download stock data, run code below
 	python src/download_data.py
+
+daoluan
